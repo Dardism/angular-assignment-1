@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styles: [`
   h2 {
     color: green;
+    padding: 20px;
   }
   `]
 })
